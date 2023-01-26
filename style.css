@@ -1,0 +1,39 @@
+/* --------------------Font-----------------*/
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main-title {
+    font-weight: bolder;
+    font-size: 80px;
+    color: #ffb84d;
+}
+
+.heading {
+    font-size: 40px;
+    font-weight: 500px;
+}
+
+.pink {
+    color: #ff9999;
+}
+
+.blue {
+    color: #252574;
+}
+
+.red {
+    color: #e65c00;
+}
+
+h2 {
+    font-weight: lighter;
+}
+
+/* -----------------------------Images------------------------------*/
+
+img {
+    width: 900px;
+    height: auto;
+}
